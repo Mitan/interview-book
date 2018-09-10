@@ -1,4 +1,4 @@
-from Stack_3 import MyStack
+from ch_3.Stack_3 import MyStack
 
 
 class MyQueue:
